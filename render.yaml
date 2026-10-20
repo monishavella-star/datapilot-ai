@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: datapilot-ai
+    runtime: docker
+    plan: free
+    region: singapore
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    healthCheckPath: /api/health
+    autoDeployTrigger: commit
+    envVars:
+      - key: DATA_DIR
+        value: /app/data
+      - key: STATE_DB
+        value: /app/data/datapilot.db
+      - key: MAX_UPLOAD_BYTES
+        value: "5000000"
+      - key: MAX_ROWS
+        value: "50000"
+      - key: MAX_COLUMNS
+        value: "80"

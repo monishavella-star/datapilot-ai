@@ -1,0 +1,25 @@
+order_id,date,region,category,product,quantity,revenue,profit
+ORD-10001,2026-06-13,North,Electronics,Webcam,3,6909.0,2500.82
+ORD-10002,2026-01-27,West,Electronics,Headphones,1,1683.0,611.19
+ORD-10003,2026-05-10,South,Electronics,Webcam,5,15090.0,5472.92
+ORD-10004,2026-05-31,North,Fitness,Yoga mat,4,4184.0,1455.0
+ORD-10005,2026-02-25,North,Fitness,Yoga mat,4,2192.0,716.05
+ORD-10006,2026-03-30,North,Fitness,Dumbbells,4,3475.2,1346.8
+ORD-10007,2026-04-07,East,Electronics,Webcam,5,13905.0,3752.8
+ORD-10008,2026-06-30,North,Electronics,Webcam,2,4970.0,814.3
+ORD-10009,2026-03-01,West,Electronics,Keyboard,4,6705.6,2532.77
+ORD-10010,2026-04-01,East,Home,Coffee maker,1,1797.0,458.07
+ORD-10011,2026-05-17,South,Home,Storage box,4,4408.0,717.29
+ORD-10012,2026-06-13,East,Home,Desk lamp,2,1230.0,259.15
+ORD-10013,2026-04-13,North,Fitness,Yoga mat,5,9100.0,3077.47
+ORD-10014,2026-06-17,West,Books,Journal,4,1344.0,471.92
+ORD-10015,2026-03-05,West,Fitness,Dumbbells,4,2618.4,950.42
+ORD-10016,2026-02-05,North,Books,Novel,1,346.0,88.87
+ORD-10017,2026-06-24,North,Books,Workbook,4,3200.0,515.23
+ORD-10018,2026-05-16,North,Fitness,Dumbbells,1,1746.0,331.66
+ORD-10019,2026-03-10,North,Fitness,Water bottle,4,1615.2,487.84
+ORD-10020,2026-03-09,North,Home,Coffee maker,3,3344.4,963.21
+ORD-10021,2026-02-20,East,Home,Desk lamp,5,10720.0,1931.39
+ORD-10022,2026-01-01,West,Fitness,Yoga mat,1,1093.0,209.34
+ORD-10023,2026-03-20,North,Home,Desk lamp,5,2133.0,848.36
+ORD-10024,2026-05-05,South,Electronics,Headphones,4,14204.0,5355.86

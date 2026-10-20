@@ -1,0 +1,12 @@
+services:
+  datapilot:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - datapilot_data:/app/data
+    environment:
+      DATA_DIR: /app/data
+      STATE_DB: /app/data/datapilot.db
+volumes:
+  datapilot_data:
